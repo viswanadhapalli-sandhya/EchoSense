@@ -25,7 +25,7 @@ The dataset is organized in the `data/RAVDESS/` directory with actor folders.
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/viswanadhapalli-sandhya/EchoSense.git
    cd EchoSense
    ```
 
